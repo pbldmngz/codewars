@@ -1,3 +1,5 @@
+#This wasn't working with "browser chocker"
+#Now it works
 def string_func(s, x):
     l = len(s)
     cyc = x % life(l)
