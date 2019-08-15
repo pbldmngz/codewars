@@ -37,7 +37,7 @@ Python, Java, JavaScript and Ruby
 ### Kyu 6
 * Bit counting (JavaScript)
 * Build a tower (JavaScript)
-* Build a tower (advanced) (JavaScript)
+* Build a tower *advanced* (JavaScript)
 * Count the smiley faces (Python)
 * Create phone number (Python)
 * Detect pangrams (JavaScript)
