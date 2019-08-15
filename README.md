@@ -2,7 +2,7 @@
 This is all my kata solutions I've made until now
 ## Languages
 Python, Java, JavaScript and Ruby
-## Index (currently 120+1)
+## Index (currently 120+2)
 ### Kyu 2
 * Evaluate mathematical expression (Python)
 * Prime streaming NC-17 (Java)
