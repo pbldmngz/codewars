@@ -2,7 +2,7 @@
 This is all my kata solutions I've made until now
 ## Languages
 Python, Java, JavaScript and Ruby
-## Index (currently 120+2)
+## Index (currently 120+3)
 ### Kyu 2
 * Evaluate mathematical expression (Python)
 * Prime streaming NC-17 (Java)
@@ -35,6 +35,7 @@ Python, Java, JavaScript and Ruby
 * Valid parentheses (Python, Ruby)
 * Where my anagrams at? (JavaScript)
 ### Kyu 6
+* 1/n Cycle (JavaScript) 
 * Bit counting (JavaScript)
 * Build a tower (JavaScript)
 * Build a tower *advanced* (JavaScript)
