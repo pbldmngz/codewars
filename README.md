@@ -2,7 +2,7 @@
 This is all my kata solutions I've made until now
 ## Languages
 Python, Java, JavaScript and Ruby
-## Index (currently 123 + 1)
+## Index (currently 125)
 ### Kyu 2
 * Evaluate mathematical expression (Python)
 * Prime streaming NC-17 (Java)
@@ -46,6 +46,7 @@ Python, Java, JavaScript and Ruby
 * Does my number look big in this? (Python)
 * Dubstep (JavaScript)
 * Equal sides of an array (Python)
+* Fake website #2 (JavaScript)
 * Find the odd int (Python)
 * Find the missing letter (Python)
 * Find the parity outlayer (JavaScript)
