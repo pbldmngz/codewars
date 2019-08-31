@@ -2,7 +2,7 @@
 This is all my kata solutions I've made until now
 ## Languages
 Python, Java, JavaScript and Ruby
-## Index (currently 125 + 1 + 1*BETA)
+## Index (currently 127 + 6 BETA)
 ### Kyu 2
 * Evaluate mathematical expression (Python)
 * Prime streaming NC-17 (Java)
@@ -74,6 +74,7 @@ Python, Java, JavaScript and Ruby
 * Valid braces (JavaScript)
 * Validate credit card number (Python)
 * Weird string case (Python)
+* Your order please (JavaScript)
 ### Kyu 7
 * Automorphic number series #6 (Python)
 * Baby shark lyrics generator (Python)
@@ -128,3 +129,10 @@ Python, Java, JavaScript and Ruby
 * Triple trouble (Python)
 ### Kumite
 * toString() reloaded (JavaScript) **[REJECTED]**
+### Beta
+* Area of a perimeter (JavaScript)
+* Basket items (Python)
+* Coefficients of a quadratic expression (Python)
+* Happy birthday (Java)
+* Paragraph settings: align left (JavaScript)
+* Sum of minimums (JavaScript)
