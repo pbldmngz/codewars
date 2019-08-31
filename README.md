@@ -2,7 +2,7 @@
 This is all my kata solutions I've made until now
 ## Languages
 Python, Java, JavaScript and Ruby
-## Index (currently 127 + 6 BETA)
+## Index (currently 127 + 7 BETA)
 ### Kyu 2
 * Evaluate mathematical expression (Python)
 * Prime streaming NC-17 (Java)
@@ -134,5 +134,6 @@ Python, Java, JavaScript and Ruby
 * Basket items (Python)
 * Coefficients of a quadratic expression (Python)
 * Happy birthday (Java)
+* Office Space #2 - Closest Three from Twos (JavaScript)
 * Paragraph settings: align left (JavaScript)
 * Sum of minimums (JavaScript)
