@@ -1,3 +1,4 @@
+//Not 100% mine, a friend was teaching me arrow functions, i was not that clever with'em
 function solution(input, markers) 
 {
    return input.split('\n').map((line,index) => 
