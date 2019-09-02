@@ -129,6 +129,7 @@ Python, Java, JavaScript and Ruby
 * Triple trouble (Python)
 ### Kumite
 * toString() reloaded (JavaScript) **[REJECTED]**
+* RealLife #1: Restaurant menu format (Python) **[BETA]**
 ### Beta
 * Area of a perimeter (JavaScript)
 * Basket items (Python)
