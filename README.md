@@ -128,8 +128,8 @@ Python, Java, JavaScript and Ruby
 * String repeat (Java)
 * Triple trouble (Python)
 ### Kumite
-* toString() reloaded (JavaScript) **[REJECTED]**
-* RealLife #1: Restaurant menu format (Python) **[BETA]**
+* toString() reloaded (JavaScript) **[REJECTED]** {KYU 4}
+* RealLife #1: Restaurant menu format (Python) **[BETA]** {KYU 6}
 ### Beta
 * Area of a perimeter (JavaScript)
 * Basket items (Python)
