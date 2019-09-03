@@ -131,7 +131,7 @@ Python, Java, JavaScript and Ruby
 * ~~toString() reloaded (JavaScript) **[REJECTED]** {KYU 4}~~
 * ~~RealLife #1: Restaurant menu format (Python) **[REJECTED]** {KYU 6}~~
 ### Translations
-* Paragraph Setting: Align Left (Python) **[BETA]** {KYU 3}
+* Paragraph Setting: Align Left (JavaScript, Python) **[BETA]** {KYU 3}
 ### Beta
 * Area of a perimeter (JavaScript)
 * Basket items (Python)
