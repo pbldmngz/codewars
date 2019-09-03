@@ -138,5 +138,5 @@ Python, Java, JavaScript and Ruby
 * Coefficients of a quadratic expression (Python)
 * Happy birthday (Java)
 * Office Space #2 - Closest Three from Twos (JavaScript)
-* Paragraph settings: align left (JavaScript)
+* Paragraph settings: align left (JavaScript, Python)
 * Sum of minimums (JavaScript)
