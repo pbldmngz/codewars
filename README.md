@@ -2,13 +2,13 @@
 This is all my kata solutions I've made until now
 ## Languages
 Python, Java, JavaScript and Ruby
-## Index (currently 127 + 8 BETA)
+## Index (currently 129 + 8 BETA)
 ### Kyu 2
 * Evaluate mathematical expression (Python)
 * Prime streaming NC-17 (Java)
 ### Kyu 3
 * Calculator (Python)
-* Last digit of a huge number (Python)
+* Last digit of a huge number (Python, Ruby)
 * Make a spiral (Python, Java)
 * Prime streaming PG-13 (Python, Java, Ruby)
 * The millionth fibonacci kata (Python, Ruby)
