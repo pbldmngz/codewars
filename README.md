@@ -8,6 +8,7 @@ Python, Java, JavaScript and Ruby
 * Prime streaming NC-17 (Java)
 ### Kyu 3
 * Calculator (Python)
+* Last digit of a huge number (Python)
 * Make a spiral (Python, Java)
 * Prime streaming PG-13 (Python, Java, Ruby)
 * The millionth fibonacci kata (Python, Ruby)
