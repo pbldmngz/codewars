@@ -2,7 +2,7 @@
 This is all my kata solutions I've made until now
 ## Languages
 Python, Java, JavaScript and Ruby
-## Index (currently 129 + 8 BETA)
+## Index (currently 130 + 9 BETA)
 ### Kyu 2
 * Evaluate mathematical expression (Python)
 * Prime streaming NC-17 (Java)
@@ -27,6 +27,7 @@ Python, Java, JavaScript and Ruby
 * Sum of intervals (JavaScript)
 * Sum strings as numbers (JavaScript)
 * Text align justify (JavaScript)
+* Rail fence cypher (Ruby)
 ### Kyu 5
 * Extract the domain name from a URL (Python)
 * First non repeating character (Python, JavaScript, Ruby)
@@ -141,3 +142,4 @@ Python, Java, JavaScript and Ruby
 * Office Space #2 - Closest Three from Twos (JavaScript)
 * Paragraph settings: align left (JavaScript, Python)
 * Sum of minimums (JavaScript)
+* Sum two arrays (JavaScript)
