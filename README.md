@@ -2,19 +2,19 @@
 This is all my kata solutions I've made until now
 ## Languages
 Python, Java, JavaScript and Ruby
-## Index (currently 130 + 9 BETA)
+## Index (currently 143 + 9 BETA)
 ### Kyu 2
 * Evaluate mathematical expression (Python)
 * Prime streaming NC-17 (Java)
 ### Kyu 3
 * Calculator (Python)
-* Last digit of a huge number (Python, Ruby)
+* Last digit of a huge number (Python, Ruby, C#)
 * Make a spiral (Python, Java)
 * Prime streaming PG-13 (Python, Java, Ruby)
 * The millionth fibonacci kata (Python, Ruby)
 ### Kyu 4
 * Adding big numbers (JavaScript)
-* Human readable duration format (Python)
+* Human readable duration format (Python, Groovy)
 * Next smaller number with same digits (Java)
 * ParseInt() reloaded (JavaScript)
 * Permutations (Python)
@@ -61,6 +61,7 @@ Python, Java, JavaScript and Ruby
 * Highest scoring words (JavaScript)
 * IQ test (JavaScript)
 * Is a number prime? (Java)
+* Make the deadfish swim (Groovy)
 * Mexican wave (Python)
 * Multiples of 3 or 5 (Python)
 * New cashier does not know about space or shift (Python)
@@ -94,9 +95,11 @@ Python, Java, JavaScript and Ruby
 * Mumbling (JavaScript)
 * Nice array (Python)
 * Ones and zeros (Python)
+* Ordered count of characters (Groovy)
 * Regex validate pin code (Java)
 * Row weights (JavaScript)
 * Shortest word (JavaScript)
+* Simple Fun #37: House Numbers Sum (Groovy)
 * Simple fun #152: Invite more women (Python)
 * Special number series #5 (Python)
 * Vowel count (JavaScript)
