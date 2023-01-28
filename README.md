@@ -46,7 +46,7 @@ Python, Java, JavaScript and Ruby
 * Count the smiley faces (Python)
 * Create phone number (Python)
 * Detect pangrams (JavaScript)
-* Does my number look big in this? (Python)
+* Does my number look big in this? (Python, JavaScript)
 * Dubstep (JavaScript)
 * Equal sides of an array (Python)
 * Fake website #2 (JavaScript)
@@ -77,6 +77,7 @@ Python, Java, JavaScript and Ruby
 * Valid braces (JavaScript)
 * Validate credit card number (Python)
 * Weird string case (Python)
+* Who likes it? (JavaScript)
 * Your order please (JavaScript)
 ### Kyu 7
 * Automorphic number series #6 (Python)
