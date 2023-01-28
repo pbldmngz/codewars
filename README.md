@@ -1,5 +1,8 @@
 # codewars
-This is all my kata solutions I've made until now
+This is all my kata solutions I've made until now.
+
+> **I expect you not to copy my solutions.** Even if you just want "insight" on the kata you are triying to solve it will all turn meaningless if you get the idea somewhere else and not by yourself. It's like being able to read on a foreign language and thinking you actually know how to talk it without trying first.
+
 ## Languages
 Python, Java, JavaScript and Ruby
 ## Index (currently 144 + 9 BETA)
